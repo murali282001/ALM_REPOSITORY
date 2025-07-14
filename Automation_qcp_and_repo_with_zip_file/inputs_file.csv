@@ -1,0 +1,4 @@
+Location,Domain_Name,CL_PRO_NAME,S3_URL,Download,Extraction,Zip_Delete,File_Type
+/almorg575p/qc,BRANCHBURG,NJ_ STARLIMS_eSig,s3://lilybackup-opentext/B8_Prod/QCP/NJ_ STARLIMS_eSig.qcp,,,,ST
+/almorg575p/qc,Concord,Data_Analytics_eSig,s3://lilybackup-opentext/B8_Prod/QCP/Data_Analytics_eSig.qcp,,,,ST
+/almorg575p/qc,LRL,AutoBookmark_eSig,s3://lilybackup-opentext/B8_Prod/QCP/AutoBookmark_eSig.qcp,,,,ST
