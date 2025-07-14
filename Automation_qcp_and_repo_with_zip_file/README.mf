@@ -1,0 +1,1 @@
+this file contains the automation for download the qcp and zip file from s3bucket for both zip file and qcp  file.
